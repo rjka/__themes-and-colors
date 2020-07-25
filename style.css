@@ -1,0 +1,79 @@
+.design01{
+    color: #2b2a2f; /*bg*/
+    color: #ff7f11; /*buttons / links*/
+    color: #f1f2f6; /*text*/
+    color: #e9eaee; /*bg other*/
+    background-image: url(./assets/design01.jpg); /*image*/
+}
+
+.design02{
+    color: #2d3e50; /*bg*/
+    color: #ff7a59; /*buttons / links*/
+    color: #ffffff; /*text*/
+    color: #f8ae63; /*bg other*/
+    color: #4488c9; /*bg other*/
+    color: #f86959; /*bg other*/
+    color: #00acb6; /*bg other*/
+    color: #f2546b; /*bg other*/
+    background-image: url(./assets/design02.jpg); /*image*/
+}
+
+.design03{
+    color: #1a1a1a; /*bg*/
+    color: #803dff; /*buttons / links*/
+    color: #ffffff; /*text*/
+    color: #3a3a3a; /*text*/
+    color: #d5d5df; /*bg other*/
+    color: #e3e9e7; /*bg other*/
+    background-image: url(./assets/design03.jpg); /*image*/
+    background-image: url(./assets/design03-01.jpg); /*image*/
+}
+
+.design04{
+    color: #f5f5f5; /*bg*/
+    color: #fd9a01; /*buttons / links*/
+    color: #171717; /*text*/
+    color: #5c5c5c; /*text*/
+    color: #fea211; /*text or bg*/
+    color: #23212c; /*bg other*/
+    color: #24222d; /*bg other*/
+    color: #0e0e0e; /*bg other*/
+    color: #868686; /*bg other*/
+    color: #fbac33; /*bg other*/
+    background-image: url(./assets/design04.jpg); /*image*/
+    background-image: url(./assets/design04-01.jpg); /*image*/
+    background-image: url(./assets/design04-02.jpg); /*image*/
+}
+
+.design05{
+    color: #333646; /*bg*/
+    color: #ffc25c; /*buttons / links*/
+    color: #ebebec; /*text*/
+    color: #cbccd0; /*text*/
+    color: #ffc25c; /*text*/
+    color: #e9b258; /*text*/
+    color: #252734; /*bg other*/
+    color: #ffaf29; /*bg other*/
+    color: #414555; /*bg other*/
+    color: #252734; /*bg other*/
+    background-image: url(./assets/design05.jpg); /*image*/
+    background-image: url(./assets/design05-01.jpg); /*image*/
+}
+
+.design06{
+    color: #ffffff; /*bg*/
+    color: #fccf82; /*buttons / links*/
+    color: #3d3b53; /*text*/
+    color: #fab845; /*bg other*/
+    color: #fff6e6; /*bg other*/
+    
+    color: #cbccd0; /*text*/
+    color: #ffc25c; /*text*/
+    color: #e9b258; /*text*/
+
+    
+    color: #414555; /*bg other*/
+    color: #252734; /*bg other*/
+    background-image: url(./assets/design06.jpg); /*image*/
+    background-image: url(./assets/design06-01.jpg); /*image*/
+}
