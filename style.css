@@ -66,14 +66,23 @@
     color: #3d3b53; /*text*/
     color: #fab845; /*bg other*/
     color: #fff6e6; /*bg other*/
-    
     color: #cbccd0; /*text*/
     color: #ffc25c; /*text*/
     color: #e9b258; /*text*/
-
-    
-    color: #414555; /*bg other*/
-    color: #252734; /*bg other*/
     background-image: url(./assets/design06.jpg); /*image*/
     background-image: url(./assets/design06-01.jpg); /*image*/
+}
+
+.design07{
+    color: #1d1d25; /*bg*/
+    color: #f63538; /*buttons / links*/
+    color: #eb6252; /*buttons / links*/
+    color: #ffffff; /*text*/
+    color: #f3f3f3; /*bg other*/
+    color: #a29189; /*text*/
+    color: #4a4a4a; /*text*/
+    color: #181e2c; /*bg other*/
+    color: #1e3253; /*bg other*/
+    background-image: url(./assets/design07.jpg); /*image*/
+    background-image: url(./assets/design07-01.jpg); /*image*/
 }
